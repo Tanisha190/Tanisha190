@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Tanisha 👋
 
-<!--
-**Tanisha190/Tanisha190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer (4+ years)
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Node.js, TypeScript, React
+- MongoDB, PostgreSQL
+- REST APIs, System Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- 🔗 URL Shortener – Scalable link management system
+- 🔗 NestJS Boilerplate – Clean backend architecture
+- 🔗 Portfolio – Personal website
+
+## 💼 Open to Opportunities
+Looking for backend/full-stack roles
+
+📫 Connect with me:
+- LinkedIn: https://linkedin.com/in/tanisha-gangadharaiah
