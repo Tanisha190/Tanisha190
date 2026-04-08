@@ -19,9 +19,5 @@ JavaScript | TypeScript | Node.js | Express.js | NestJS | Socket.io | JWT
 MongoDB | PostgreSQL | Redis | Docker | AWS | Vercel  Git | GitHub | GitLab 
 PNPM | NPM | ESLint | Swagger | Postman | Twilio | Jira | Trello | Notion | Nginx
 
-## 📊 GitHub Stats
-![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanisha190&show_icons=true&theme=radical)
-
-
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/tanisha-gangadharaiah
