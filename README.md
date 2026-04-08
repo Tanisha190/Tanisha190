@@ -1,8 +1,5 @@
-# Hi, I'm Tanisha G👋
 
-Backend-focused Full Stack Developer (4+ years)
-
-# Hi there! 👋 I'm Tanisha G, a passionate Software Engineer.
+# Hi there! 👋 I'm Tanisha G, Backend-focused Full Stack Developer (4+ years).
 
 ## 💼 Open to Opportunities
 Looking for backend/full-stack roles in Spain and the EU
