@@ -4,12 +4,8 @@
 ## 💼 Open to Opportunities
 Looking for backend/full-stack roles in Spain and the EU
 
-
-## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/tanishag) | [GitHub](https://github.com/Tanisha190)
-
 ## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/tanishag) | [dev.io](https://dev.to/tanishag)
+[LinkedIn](https://www.linkedin.com/in/tanisha-gangadharaiah/) | [GitHub](https://github.com/Tanisha190)  | [dev.io](https://dev.to/tanishag)
 
 ## 💻 Tech Stack
 JavaScript | TypeScript | Node.js | Express.js | NestJS | Socket.io | JWT  
