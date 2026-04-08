@@ -9,7 +9,7 @@ Looking for backend/full-stack roles in Spain and the EU
 [LinkedIn](https://www.linkedin.com/in/tanishag) | [GitHub](https://github.com/Tanisha190)
 
 ## 🌐 Socials
-[LinkedIn](https://www.linkedin.com/in/tanishag) | [Reddit](https://www.reddit.com/user/Tanisha190)
+[LinkedIn](https://www.linkedin.com/in/tanishag) | [dev.io](https://dev.to/tanishag)
 
 ## 💻 Tech Stack
 JavaScript | TypeScript | Node.js | Express.js | NestJS | Socket.io | JWT  
