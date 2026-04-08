@@ -1,19 +1,27 @@
-# Hi, I'm Tanisha 👋
+# Hi, I'm Tanisha G👋
 
 Backend-focused Full Stack Developer (4+ years)
 
-## 🚀 Tech Stack
-- Node.js, TypeScript, React
-- MongoDB, PostgreSQL
-- REST APIs, System Design
-
-## 📌 Featured Projects
-- 🔗 URL Shortener – Scalable link management system
-- 🔗 NestJS Boilerplate – Clean backend architecture
-- 🔗 Portfolio – Personal website
+# Hi there! 👋 I'm Tanisha G, a passionate Software Engineer.
 
 ## 💼 Open to Opportunities
-Looking for backend/full-stack roles
+Looking for backend/full-stack roles in Spain and the EU
+
+
+## 📫 How to Reach Me
+[LinkedIn](https://www.linkedin.com/in/tanishag) | [GitHub](https://github.com/Tanisha190)
+
+## 🌐 Socials
+[LinkedIn](https://www.linkedin.com/in/tanishag) | [Reddit](https://www.reddit.com/user/Tanisha190)
+
+## 💻 Tech Stack
+JavaScript | TypeScript | Node.js | Express.js | NestJS | Socket.io | JWT  
+MongoDB | PostgreSQL | Redis | Docker | AWS | Vercel  Git | GitHub | GitLab 
+PNPM | NPM | ESLint | Swagger | Postman | Twilio | Jira | Trello | Notion | Nginx
+
+## 📊 GitHub Stats
+![Tanisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanisha190&show_icons=true&theme=radical)
+
 
 📫 Connect with me:
 - LinkedIn: https://linkedin.com/in/tanisha-gangadharaiah
